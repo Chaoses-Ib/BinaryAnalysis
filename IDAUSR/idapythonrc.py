@@ -1,2 +1,2 @@
 # shorthand
-base = idaapi.get_imagebase
+ibase = idaapi.get_imagebase
