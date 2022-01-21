@@ -1,2 +1,4 @@
+from peak.util.proxies import CallbackProxy
+
 # shorthand
-ibase = idaapi.get_imagebase
+ibase = CallbackProxy(idaapi.get_imagebase)
