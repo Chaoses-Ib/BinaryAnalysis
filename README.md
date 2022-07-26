@@ -1,4 +1,7 @@
 # Binary Analysis
+- [Performance Analysis](Performance%20Analysis/README.md)
+  - [Profiling](Performance%20Analysis/Profiling.md)
+
 ## Binary analysis tools
 ### IDA
 [IbIDA](IbIDA)
