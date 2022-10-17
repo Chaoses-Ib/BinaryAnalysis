@@ -1,38 +1,14 @@
 # Binary Analysis
-- [Performance Analysis](Performance%20Analysis/README.md)
-  - [Profiling](Performance%20Analysis/Profiling.md)
+## Binary Data Analysis
 
-## Binary analysis tools
-### IDA
-[IbIDA](IbIDA)
+## Binary Code Analysis
+- [Executable Formats](Binary%20Code/Executable%20Formats/README.md)
+- [Binary Code Matching](Binary%20Code/Binary%20Code%20Matching.md)
+- Binary Exploitation
+- Tools
+  - [IDA](Binary%20Code/Tools/IDA/README.md)
 
-## Executable formats
-### Debugging information
-#### PDB
-- [sonyps5201314/pdb: ida pdb plugin with enhance and bugfix](https://github.com/sonyps5201314/pdb)  
-  [PDB 插件修复增强](https://bbs.pediy.com/thread-266189.htm)
-
-## Binary code matching
-- [BinDiff](https://www.zynamics.com/software.html)  
-  ![](images/BinDiff-MatchedFunctions.png)
-
-  Disadvantages:
-  - Does not support IDB paths with non-ASCII characters
-
-- [SigMaker](https://github.com/ajkhoury/SigMaker-x64)  
-  ![](images/SigMaker.png)
-
-  Disadvantages:
-  - Does not output multiple signatures for one function
-  - Does not output matching results when generating signatures
-
-- [SigMakerEx](https://github.com/kweatherman/sigmakerex)  
-  ![](https://github.com/kweatherman/sigmakerex/blob/ad4182201abff782faa2be3b8a47af1e36b2c20b/images/main.png?raw=true)
-
-### Library signatures
-Full:
-- [Library Signatures](https://github.com/Chaoses-Ib/library-signatures)
-
-## Program differing
-- [BinDiff](https://www.zynamics.com/software.html)  
-  ![](images/BinDiff-CombinedView.png)
+## Program Analysis
+- [Program Differing](Program/Program%20Differing.md)
+- [Performance Analysis](Program/Performance%20Analysis/README.md)
+  - [Profiling](Program/Performance%20Analysis/Profiling.md)
