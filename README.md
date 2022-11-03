@@ -7,6 +7,8 @@
 - [Obfuscation](Binary%20Code/Obfuscation/README.md)
   - Data-Flow Obfuscation
     - [String Obfuscation](Binary%20Code/Obfuscation/Data/String%20Obfuscation.md)
+  - ISA-level Obfuscation
+    - [M/o/Vfuscator](Binary%20Code/Obfuscation/ISA/MoVfuscator.md)
 - [Binary Exploitation](Binary%20Code/Binary%20Exploitation/README.md)
   - [Return-Oriented Programming](Binary%20Code/Binary%20Exploitation/Return-Oriented%20Programming.md)
   - [Pwntools](Binary%20Code/Binary%20Exploitation/Pwntools.md)
