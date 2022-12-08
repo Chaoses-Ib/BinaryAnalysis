@@ -5,6 +5,8 @@
 - [Executable Formats](Binary%20Code/Executable%20Formats/README.md)
 - [Binary Code Matching](Binary%20Code/Binary%20Code%20Matching.md)
 - [Obfuscation](Binary%20Code/Obfuscation/README.md)
+  - Controlf-Flow Obfuscation
+    - [CFG Art](Binary%20Code/Obfuscation/Control-Flow/CFG%20Art.md)
   - Data-Flow Obfuscation
     - [String Obfuscation](Binary%20Code/Obfuscation/Data/String%20Obfuscation.md)
   - ISA-level Obfuscation
